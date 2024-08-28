@@ -1,12 +1,10 @@
-# LinearRegression_MLI_Assignment
-
 # Project Name
-> Supervised Model creation for demand of Shared Bikes
+> Supervised Liner Regression Model creation for demand of Shared Bikes
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Process]
+* [Process](#Process-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
